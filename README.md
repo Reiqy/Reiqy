@@ -10,7 +10,7 @@
 - 🧔 I'm [@Reiqy](https://github.com/Reiqy), programmer by trade, mathematician at heart.
 - 👀 I'm into programming languages and game development.
 - ⚒️ I enjoy C, C# and Python.
-- 🚧 I'm currently working on [AristoTelos](https://www.aristotelos.cz/).
+- 🚧 I'm currently working on [AristoTelos](https://www.aristotelos.com/).
 - 📦 I would love to start contributing to an open source project.
 
 ---
